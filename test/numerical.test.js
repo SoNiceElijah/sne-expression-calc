@@ -16,5 +16,3 @@ describe("Numeric tests", () => {
         assert.equal(res,-3);
     });
 });
-
-
