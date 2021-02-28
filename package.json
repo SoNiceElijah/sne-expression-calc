@@ -1,0 +1,33 @@
+{
+  "name": "sne-expression-calc",
+  "version": "0.1.0",
+  "description": "Custom expression calculator",
+  "main": "boss.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha --exit --timeout 2000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoNiceElijah/sne-expression-calc.git"
+  },
+  "keywords": [
+    "expression",
+    "calculator",
+    "expression-calculator",
+    "sne-expression-calc",
+    "custom-expression-resolver"
+  ],
+  "author": "soniceelijah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SoNiceElijah/sne-expression-calc/issues"
+  },
+  "homepage": "https://github.com/SoNiceElijah/sne-expression-calc#readme",
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.3.0"
+  }
+}
